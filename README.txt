@@ -1,4 +1,4 @@
-Istruzioni per l'import del progetto e per la sua esecuzione:
+Istruzioni per l'import del progetto in ambiente Eclipse e per la sua esecuzione:
 
 1) Importare il progetto
 - Da File scegliere Open Projects From File System...
